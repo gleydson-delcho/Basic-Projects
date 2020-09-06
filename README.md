@@ -1,4 +1,5 @@
 
+
 # APRESENTAÇÃO
 
 ## Projetos básicos usando html, css e javascript
@@ -14,7 +15,11 @@ Espero que gostem deste código e possam usá-lo.</p>
 
 # TECNOLOGIAS
 
-<P>O intuito é trabalhar principalmente com as tecnologias HTML, CSS e JAVASCRIPT! </p>
+<P>O intuito é trabalhar principalmente com as tecnologias:</p>
+
+ * HTML
+ * CSS 
+ *JAVASCRIPT
 
 # OBJETIVOS
 
