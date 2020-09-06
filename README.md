@@ -19,7 +19,7 @@ Espero que gostem deste código e possam usá-lo.</p>
 
  * HTML
  * CSS 
- *JAVASCRIPT
+ * JAVASCRIPT
 
 # OBJETIVOS
 
