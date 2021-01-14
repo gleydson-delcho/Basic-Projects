@@ -12,21 +12,26 @@
 </head>
 
 <body>
+    <header>
+        <div class="back">
+            <a href="../index.html"><img src="../image/back.png" alt="Voltar"></a>
+        </div>
+    </header>
     <div class="container">
         <h1>Bin2Dec</h1>
         <h3>Conversor de números binário para decimal</h3>
         <div class="label">
             <label for="binary">Binário:
-                <input type="text" name="binary" id="bin">
+                <input type="number" name="binary" id="bin">
             </label>
         </div>
         <div class="display">
             <label for="decimal">Decimal:
-                <input type="text" id="res">
+                <input type="number" readonly="true" id="res">
             </label>
 
         </div>
-        <button class="btn" onclick="convert()">Coverter</button>
+        <button class="btn" onclick="convert()">Converter</button>
         <footer className="footer">
             <span>
                 Desenvolvido por <strong>Gleydson</strong> <span className="text-dark">
@@ -34,6 +39,7 @@
             </span>
         </footer>
     </div>
+    
 </body>
 
 </html>
