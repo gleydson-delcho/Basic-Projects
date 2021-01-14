@@ -15,7 +15,7 @@ body, html {
     align-items: center;   
 
     width: 100%;
-    height: 20 rem;
+    height: 110px;
     background-color: #057214;
 }
 
@@ -26,7 +26,7 @@ body, html {
 }
 
 ul {
-    margin-top: 5rem;
+    margin-top: 3rem;
 }
 
 li {
@@ -34,7 +34,7 @@ li {
 }
 
 a {
-    font-size: 2rem;
+    font-size: 3rem;
     text-decoration: none;
     color: #057214;
 
@@ -45,5 +45,23 @@ a {
         font-family: fantasy;
         font-size: 2rem;
         color: #000;
+    }
+
+    a {
+        font-size: 2rem;
+        text-decoration: none;
+        color: #057214;    
+    }
+    @media(max-width: 480px){
+        .header h2{
+            font-family: fantasy;
+            font-size: 1rem;
+            color: #000;
+        }
+        a {
+            font-size: 1rem;
+            text-decoration: none;
+            color: #057214;    
+        }
     }
 }
