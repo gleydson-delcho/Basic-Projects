@@ -10,8 +10,8 @@ modifyBorderRadius = () => {
     const border4 = parseInt(border_br.value);
 
 
-    if(border1 > 150 || border2 > 150 || border3 > 150 || border4 >150) {
-        window.alert('Consideerar valores entre 0 e 150!')
+    if(border1 > 200 || border2 > 200 || border3 > 200 || border4 >200) {
+        window.alert('Consideerar valores entre 0 e 200!')
     }else{
         document.querySelector('.border').style.borderRadius = 
             `${border1}px ${border2}px ${border3}px ${border4}px`
