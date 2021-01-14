@@ -4,7 +4,7 @@
 
 ## Projetos básicos usando html, css e javascript - Disponível para acesso
 
-<p>Aplicação disponível em <a href=" https://gleydson-delcho.github.io/Basic-Projects/">Acesso ao site</a>
+<p>Aplicação disponível em <a href="https://gleydson-delcho.github.io/Basic-Projects/">Acesso ao site</a>
 
 <p>Aplicação retirada das ideias do <a href="https://github.com/florinpop17/app-ideas">App Ideas</a>
 
