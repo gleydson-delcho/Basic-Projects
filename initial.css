@@ -1,0 +1,49 @@
+body, html {
+    min-width: 500px;
+    margin: 0;
+    padding: 0; 
+    background-color: #000;
+}
+
+.container {
+    height: 100vh;    
+}
+
+.container .header {  
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+
+    width: 100%;
+    height: 20 rem;
+    background-color: #057214;
+}
+
+.header h2{
+    font-family: fantasy;
+    font-size: 4rem;
+    color: #000;
+}
+
+ul {
+    margin-top: 5rem;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    font-size: 2rem;
+    text-decoration: none;
+    color: #057214;
+
+}
+
+@media(max-width: 725px){
+    .header h2{
+        font-family: fantasy;
+        font-size: 2rem;
+        color: #000;
+    }
+}
