@@ -9,4 +9,3 @@ convert = () => {
     document.getElementById('res').value = decimal;
     return true;
 }
-
